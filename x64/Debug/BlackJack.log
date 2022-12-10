@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\BlackJack\Deck.h(151,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\BlackJack\Main.cpp(57,2): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ).
+D:\BlackJack\x64\Debug\BlackJack.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
